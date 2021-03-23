@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @vvladd
+- 💻 Frontend developer
+- 🔬 Master of Computer Science
+- 🌎 Digital nomad
+- 🥦 Vegetarian 
+- 🏂 Surfer and snowboarder
