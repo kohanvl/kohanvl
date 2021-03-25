@@ -4,3 +4,4 @@
 - 🌎 Digital nomad
 - 🥦 Vegetarian 
 - 🏂 Surfer and snowboarder
+- 📩 vvladkohan@gmail.com
