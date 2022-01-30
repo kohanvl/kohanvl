@@ -4,3 +4,4 @@
 - 🌎 Digital nomad
 - 🥦 Vegetarian 
 - 🏂 Surfer and snowboarder
+- ✈️ Telegram @vvladd
