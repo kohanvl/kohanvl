@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vvladd
-- 💻 Frontend developer
+- 👋 Hi, I’m V
+- 💻 Software engineer (JS/TS)
 - 🔬 Master of Computer Science
 - 🌎 Digital nomad
-- 🥦 Vegetarian 
 - 🏂 Surfer and snowboarder
-- ✈️ Telegram @vvladd
+- ✈️ Telegram @kohanvl
